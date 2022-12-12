@@ -1,0 +1,217 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/tl/spanish/common.rpy", line 441: Could not parse string.
+(Perhaps you left out a " at the end of the first line.)
+    new "Are you sure you want to begin skipping?""
+    
+        # renpy/common/00gui.rpy:431
+        old "Are you sure you want to skip to the next choice?"
+        new "Are you sure you want to skip to the next choice?"
+    
+        # renpy/common/00gui.rpy:432
+        old "Are you sure you want to skip unseen dialogue to the next choice?"
+        new "Are you sure you want to skip unseen dialogue to the next choice?"
+    
+        # renpy/common/00keymap.rpy:306
+        old "Failed to save screenshot as %s."
+        new ""
+    
+        # renpy/common/00keymap.rpy:318
+        old "Saved screenshot as %s."
+        new ""
+    
+        # renpy/common/00library.rpy:195
+        old "Skip Mode"
+        new "Skip Mode"
+    
+        # renpy/common/00library.rpy:281
+        old "This program contains free software under a number of licenses, including the MIT License and GNU Lesser General Public License. A complete list of software, including links to full source code, can be found {a=https://www.renpy.org/l/license}here{/a}."
+        new "This program contains free software under a number of licenses, including the MIT License and GNU Lesser General Public License. A complete list of software, including links to full source code, can be found {a=https://www.renpy.org/l/license}here{/a}."
+    
+        # renpy/common/00preferences.rpy:254
+        old "display"
+        new ""
+    
+        # renpy/common/00preferences.rpy:266
+        old "transitions"
+        new ""
+    
+        # renpy/common/00preferences.rpy:275
+        old "skip transitions"
+        new ""
+    
+        # renpy/common/00preferences.rpy:277
+        old "video sprites"
+        new ""
+    
+        # renpy/common/00preferences.rpy:286
+        old "show empty window"
+        new ""
+    
+        # renpy/common/00preferences.rpy:295
+        old "text speed"
+        new ""
+    
+        # renpy/common/00preferences.rpy:303
+        old "joystick"
+        new ""
+    
+        # renpy/common/00preferences.rpy:303
+        old "joystick..."
+        new ""
+    
+        # renpy/common/00preferences.rpy:310
+        old "skip"
+        new ""
+    
+        # renpy/common/00preferences.rpy:313
+        old "skip unseen [text]"
+        new ""
+    
+        # renpy/common/00preferences.rpy:318
+        old "skip unseen text"
+        new ""
+    
+        # renpy/common/00preferences.rpy:320
+        old "begin skipping"
+        new ""
+    
+        # renpy/common/00preferences.rpy:324
+        old "after choices"
+        new ""
+    
+        # renpy/common/00preferences.rpy:331
+        old "skip after choices"
+        new ""
+    
+        # renpy/common/00preferences.rpy:333
+        old "auto-forward time"
+        new ""
+    
+        # renpy/common/00preferences.rpy:347
+        old "auto-forward"
+        new ""
+    
+        # renpy/common/00preferences.rpy:354
+        old "Auto forward"
+        new ""
+    
+        # renpy/common/00preferences.rpy:357
+        old "auto-forward after click"
+        new ""
+    
+        # renpy/common/00preferences.rpy:366
+        old "automatic move"
+        new ""
+    
+        # renpy/common/00preferences.rpy:375
+        old "wait for voice"
+        new ""
+    
+        # renpy/common/00preferences.rpy:384
+        old "voice sustain"
+        new ""
+    
+        # renpy/common/00preferences.rpy:393
+        old "self voicing"
+        new ""
+    
+        # renpy/common/00preferences.rpy:402
+        old "self voicing volume drop"
+        new ""
+    
+        # renpy/common/00preferences.rpy:410
+        old "clipboard voicing"
+        new ""
+    
+        # renpy/common/00preferences.rpy:419
+        old "debug voicing"
+        new ""
+    
+        # renpy/common/00preferences.rpy:428
+        old "emphasize audio"
+        new ""
+    
+        # renpy/common/00preferences.rpy:437
+        old "rollback side"
+        new ""
+    
+        # renpy/common/00preferences.rpy:447
+        old "gl powersave"
+        new ""
+    
+        # renpy/common/00preferences.rpy:453
+        old "gl framerate"
+        new ""
+    
+        # renpy/common/00preferences.rpy:456
+        old "gl tearing"
+        new ""
+    
+        # renpy/common/00preferences.rpy:459
+        old "font transform"
+        new ""
+    
+        # renpy/common/00preferences.rpy:462
+        old "font size"
+        new ""
+    
+        # renpy/common/00preferences.rpy:470
+        old "font line spacing"
+        new ""
+    
+        # renpy/common/00preferences.rpy:478
+        old "system cursor"
+        new ""
+    
+        # renpy/common/00preferences.rpy:487
+        old "renderer menu"
+        new ""
+    
+        # renpy/common/00preferences.rpy:490
+        old "accessibility menu"
+        new ""
+    
+        # renpy/common/00preferences.rpy:493
+        old "high contrast text"
+        new ""
+    
+        # renpy/common/00preferences.rpy:512
+        old "music volume"
+        new ""
+    
+        # renpy/common/00preferences.rpy:513
+        old "sound volume"
+        new ""
+    
+        # renpy/common/00preferences.rpy:514
+        old "voice volume"
+        new ""
+    
+        # renpy/common/00preferences.rpy:515
+        old "mute music"
+        new ""
+    
+        # renpy/common/00preferences.rpy:516
+        old "mute sound"
+        new ""
+    
+        # renpy/common/00preferences.rpy:517
+        old "mute voice"
+        new ""
+    
+        # renpy/common/00preferences.rpy:518
+        old "mute all"
+        new ""
+    
+        # renpy/common/00preferences.rpy:599
+        old "Clipboard voicing enabled. Press 'shift+C' to disable."
+        new ""
+    
+        # renpy/common/00preferences.rpy:601
+        old "Self-voicing would say \"[renpy.display.tts.last]\". Press 'alt+shift+V' to disable."
+
+Ren'Py Version: Ren'Py 7.4.11.2266
+Thu Jun 23 21:09:27 2022
